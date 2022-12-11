@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Carlos Camacho, Senior Fullstack (Laravel, Vuejs, Reactjs)
+- 👋 Hi, I’m Carlos Camacho, Senior Fullstack (Laravel, CodeIgniter, Vuejs, Reactjs, Angular)
 - 👀 I’m technology lover, visionary. I am passionate about programming and the world of the internet.
 - 🌱 I’m currently expanding my knowledge in nodejs for server side use
 - 💞️ I’m looking to be part of people who want to make a change and leave a legacy
