@@ -5,7 +5,8 @@
 - 📫 How to reach me:
   - [LinkedIn](https://www.linkedin.com/in/carlos-camacho-29755043/)
   - [carloscgo123@gmail.com](mailto:carloscgo123@gmail.com)
-- [My CV](https://bit.ly/cv-carlos-camacho)
+- [My CV - Español](https://bit.ly/cv-carlos-camacho)
+- [My CV - English](https://bit.ly/cv-eng-carlos-camacho)
 
 <!---
 carloscgo/carloscgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
